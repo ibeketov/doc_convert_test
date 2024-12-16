@@ -1,1 +1,2 @@
-Small tests of [docking](https://github.com/DS4SD/docling) data extraction tool
+- Small tests of [docking](https://github.com/DS4SD/docling) data extraction tool
+- Test MS text extraction library [markitdown](https://github.com/microsoft/markitdown)
